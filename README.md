@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Web & App development projects. 
 - 🤔 I’m looking for help with Web & App development projects.
 - 💬 Ask me about what ever you want to.
-- 📫 How to reach me: mail me: "talhajubayer78@hmail.com".
+- 📫 How to reach me: mail me: "talhajubayer78@gmail.com".
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love gardening but I am too lazy to do that.
 
