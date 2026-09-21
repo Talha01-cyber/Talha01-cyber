@@ -22,6 +22,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Talha01-cyber&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Talha01-cyber&icon=0&color=4)] (https://talha01-cyber.github.io/Portfolio/)
+My Profile: (https://talha01-cyber.github.io/Portfolio/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
